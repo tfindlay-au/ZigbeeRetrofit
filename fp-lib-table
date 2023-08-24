@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "ECS-.327-12")(type "KiCad")(uri "${KIPRJMOD}/ECS-.327-12.5-34RR-TR")(options "")(descr ""))
+  (lib (name "ECS-320-13-42-CKM-TR")(type "KiCad")(uri "${KIPRJMOD}/ECS-320-13-42-CKM-TR")(options "")(descr ""))
+  (lib (name "CC2531F256RHAT")(type "KiCad")(uri "${KIPRJMOD}/CC2531F256RHAT")(options "")(descr ""))
+  (lib (name "110990030")(type "KiCad")(uri "${KIPRJMOD}/110990030")(options "")(descr ""))
+  (lib (name "U")(type "KiCad")(uri "${KIPRJMOD}/U.FL-R-SMT-1_10")(options "")(descr ""))
+  (lib (name "TC2050-IDC-NL")(type "KiCad")(uri "${KIPRJMOD}/TC2050-IDC-NL")(options "")(descr ""))
+)

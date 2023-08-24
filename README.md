@@ -15,5 +15,5 @@ The design also uses the following symbols:
 - TC2050-IDC-NL: 10 pin flash connection
 - U.FL-R-SMT-1_10: UFL antenna connector
 - ECS-320-13-42-CKM-TR: 32 Mhz Crystal
-
+- ECS-.327-12.5-34RR-TR: 32.768 kHz Crystal
 
