@@ -2712,7 +2712,7 @@
     (property "Reference" "J1" (id 0) (at 256.54 30.4799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "110990030" (id 1) (at 256.54 33.0199 0)
+    (property "Value" "114020164" (id 1) (at 256.54 33.0199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "110990030:SEEED_110990030" (id 2) (at 250.19 30.48 0)
@@ -3306,7 +3306,7 @@
       (reference "D1") (unit 1) (value "LTST-C281KGKT") (footprint "LTST-C281KGKT:0402(POL)")
     )
     (path "/8e4e635d-33a0-4932-856a-6a690a34c395"
-      (reference "J1") (unit 1) (value "110990030") (footprint "110990030:SEEED_110990030")
+      (reference "J1") (unit 1) (value "114020164") (footprint "110990030:SEEED_110990030")
     )
     (path "/33aac899-fc0a-4e6d-a4e5-d2f7cbb5983c"
       (reference "J2") (unit 1) (value "U.FL-R-SMT-1(10)") (footprint "U:HRS_U.FL-R-SMT-1(10)")

@@ -4,9 +4,9 @@
 This project provide a PCB that will retrofit into an M5Stack Zigbee Unit but replaces the CC2630 with the more common and better supported CC2531 chipset.
 
 Designed in KiCad 6.0.9
-The output board measures 50mm x 20mm (I hope)
+The output board measures 50mm x 20mm and contains cutouts for mounting in the case /w lego fittings
 
-The design incorporates a Tag-Connect 10 pad pogo pin (TC-2050-NL) footprint to write firmware.
+The design incorporates a Tag-Connect 10 pad pogo pin (TC-2050-NL) footprint to write/flash firmware.
 The design also incorporates a 4-pin Grove connector with UART interface for easy connection with M5Stack Atom products.
 
 The design also uses the following symbols:
