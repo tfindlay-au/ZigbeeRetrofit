@@ -17,3 +17,8 @@ The design also uses the following symbols:
 - ECS-320-13-42-CKM-TR: 32 Mhz Crystal
 - ECS-.327-12.5-34RR-TR: 32.768 kHz Crystal
 
+### Next Steps
+- Add USB port ?
+- Ground Pad ok ?
+- Add fuse ?
+- 
