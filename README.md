@@ -19,6 +19,4 @@ The design also uses the following symbols:
 
 ### Next Steps
 - Add USB port ?
-- Ground Pad ok ?
-- Add fuse ?
-- 
+- Add an RF shield to go over the chip
